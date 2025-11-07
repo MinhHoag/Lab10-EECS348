@@ -18,7 +18,6 @@
 7.0000001 0.0000009
 42 -0000042
 12345678901234567890.12345 0.87655
-# invalids below (each line still has two tokens)
 A 1
 +-1 2
 -5. 3
